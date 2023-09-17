@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Check out some of my projects",
     description:
-      "I have created many projects you can access it and know more about me byvisiting my Github",
+      "I have created many projects you can access it and know more about me by visiting my Github",
     url: "https://github.com/AhsanBilal157",
   },
   {
@@ -49,7 +49,7 @@ const projectList = [
     url: "https://agfow.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Want to know more about me",
     description:
       "You want to know more about me connect with me on Linkedin",
     url: "www.linkedin.com/in/ahsan-bilal-khan-14235b212",
