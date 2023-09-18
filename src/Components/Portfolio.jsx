@@ -46,13 +46,13 @@ const projectList = [
     title: "My Main Project",
     description:
       "I am with my team taking an initiative to revolutionize the agriculture system of Pakistan. You can visit our site form the link below",
-    url: "https://agfow.com",
+    url: "http://agfow.com/",
   },
   {
     title: "Want to know more about me",
     description:
       "You want to know more about me connect with me on Linkedin",
-    url: "www.linkedin.com/in/ahsan-bilal-khan-14235b212",
+    url: "https://www.linkedin.com/in/ahsan-bilal-khan-14235b212/",
   },
 ];
 
